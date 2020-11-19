@@ -22,7 +22,8 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Joe Lepe</strong>
-                <br />From the moment I saw the infamous “Hello World” appear on my command line, I have been drawn into the world of development. From Web to Software. What began as a search for “just any job” has developed itself into a full blown passion. With the seemingly infinite amount of new challenges awaiting me at every turn, I have been able to improve my ability in creating high quality software.  
+                <br /> Budding Web Developer seeking to use the arsenal of tools and skills Ihave acquired to aid a team in a professional environment. Initially, coding for me was a means to stability, but as I have dug deeper into this highly complex world, I can’t help but to be enchanted by what yet awaits me. With the seemingly infinite amount of new challenges awaiting me at everyturn, I have been able to foster and maintain my passion for programming. Seeking an opportunity to garner experience, maintain and expand current
+knowledge, while also consistently learning new technologies.   
                 <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
@@ -33,7 +34,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1LebJLvJOoWsaJAtghdouVWjCKUv-zRTX/view" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1LebJLvJOoWsaJAtghdouVWjCKUv-zRTX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
