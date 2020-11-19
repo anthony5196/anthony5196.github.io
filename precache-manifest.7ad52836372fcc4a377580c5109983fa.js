@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3085365e1910b9ad6ef84cb87de12e40",
+    "revision": "95c814200598dfe1303ce25652669233",
     "url": "/index.html"
   },
   {
-    "revision": "e208eb9ab63966e0c882",
+    "revision": "1a4d558e2ee83cac7069",
     "url": "/static/css/main.ec6df78a.chunk.css"
   },
   {
-    "revision": "075336250746c35bf0e9",
-    "url": "/static/js/2.41850ca9.chunk.js"
+    "revision": "57a583a4752967c4c21e",
+    "url": "/static/js/2.18a2db9b.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/static/js/2.41850ca9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.18a2db9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e208eb9ab63966e0c882",
-    "url": "/static/js/main.64359485.chunk.js"
+    "revision": "1a4d558e2ee83cac7069",
+    "url": "/static/js/main.a9be0add.chunk.js"
   },
   {
     "revision": "a4030fc90ccda255d515",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/html-5.676e8188.svg"
   },
   {
+    "revision": "13a096531e50277a3fb17460c39db221",
+    "url": "/static/media/java.13a09653.svg"
+  },
+  {
     "revision": "2d2e31cc63a96c7e6044f52d30fd21b9",
     "url": "/static/media/javascript.2d2e31cc.svg"
   },
@@ -132,23 +136,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sass-1.b446ca5a.svg"
   },
   {
-    "revision": "8bce7aef886c3872c218e0e6ef8bdccb",
-    "url": "/static/media/slide1.8bce7aef.webp"
+    "revision": "ed269919340337b309e24d806e33a5d4",
+    "url": "/static/media/slide1.ed269919.webp"
   },
   {
     "revision": "7256f309520276be70acd97720610bc6",
     "url": "/static/media/slide2.7256f309.webp"
   },
   {
-    "revision": "8e5b87b60151049a8df9ec0bd30978f0",
-    "url": "/static/media/slide3.8e5b87b6.webp"
+    "revision": "1131a55f6ff51a61aadfa0e9c162a18d",
+    "url": "/static/media/slide3.1131a55f.webp"
+  },
+  {
+    "revision": "8bce7aef886c3872c218e0e6ef8bdccb",
+    "url": "/static/media/slide4.8bce7aef.webp"
   },
   {
     "revision": "e79a42b9281a3b30f1302d5452f9884f",
     "url": "/static/media/styled-components.e79a42b9.svg"
-  },
-  {
-    "revision": "3de182d2120823fe49c27eeb1765c53a",
-    "url": "/static/media/typescript.3de182d2.svg"
   }
 ]);
