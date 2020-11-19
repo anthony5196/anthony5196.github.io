@@ -22,7 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Joe Lepe</strong>
-                <br /> Budding Web Developer seeking to use the arsenal of tools and skills I have acquired to aid a team in a professional environment. Initially, coding for me was a means to stability, but as I have dug deeper into this highly complex world, I can’t help but to be enchanted by what yet awaits me. With the seemingly infinite amount of new challenges awaiting me at everyturn, I have been able to foster and maintain my passion for programming. Seeking an opportunity to garner experience, maintain and expand current knowledge, while also consistently learning new technologies.   
+                <br /> Welcome to my website. I am a budding Web Developer seeking to use the arsenal of tools and skills I have acquired to aid a team in a professional environment. Initially, coding for me was a means to stability, but as I have dug deeper into this highly complex world, I can’t help but to be enchanted by what yet awaits me. With the seemingly infinite amount of new challenges awaiting me at everyturn, I have been able to foster and maintain my passion for programming. Seeking an opportunity to garner experience, maintain and expand current knowledge, while also consistently learning new technologies.   
                 <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
