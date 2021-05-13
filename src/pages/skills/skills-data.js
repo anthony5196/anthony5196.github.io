@@ -61,7 +61,6 @@ export const skills = {
       imgSrc: L_REACT_ROUTER,
       skillName: "React Router",
     },
-
     {
       link: "https://react-bootstrap.github.io/",
       imgAltText: "React Bootstrap",
@@ -77,6 +76,13 @@ export const skills = {
   ],
 
   backend: [
+    {
+      link: "nodejs.org",
+      imgAltText: "Node",
+      imgSrc: L_NODE_JS,
+      skillName: "Node",
+    },
+
     {
       link: "https://expressjs.com/",
       imgAltText: "Express",
