@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
-import Profile from "../../assets/img/profile/profile.webp";
+import Profile from "../../assets/img/profile/golfing.png";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -33,7 +33,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1LebJLvJOoWsaJAtghdouVWjCKUv-zRTX/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://docs.google.com/document/d/e/2PACX-1vS1mWRcpLA5v9OCmFjWJTC-SwbqITvcsAXyXG5Mus_Sa1rLQ-0L9HODh0zsuaOcNg/pub" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
