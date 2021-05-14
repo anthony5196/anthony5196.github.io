@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f166878d.chunk.css",
-    "main.js": "/static/js/main.772cae0f.chunk.js",
-    "main.js.map": "/static/js/main.772cae0f.chunk.js.map",
+    "main.js": "/static/js/main.3b205acf.chunk.js",
+    "main.js.map": "/static/js/main.3b205acf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a6d7314.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a6d7314.js.map",
-    "static/js/2.c531e019.chunk.js": "/static/js/2.c531e019.chunk.js",
-    "static/js/2.c531e019.chunk.js.map": "/static/js/2.c531e019.chunk.js.map",
+    "static/js/2.ad880894.chunk.js": "/static/js/2.ad880894.chunk.js",
+    "static/js/2.ad880894.chunk.js.map": "/static/js/2.ad880894.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.69b6aa7bbd95d6b7f983a3b4a382cc57.js": "/precache-manifest.69b6aa7bbd95d6b7f983a3b4a382cc57.js",
+    "precache-manifest.177f6c9cf651e194135b98315c7a8001.js": "/precache-manifest.177f6c9cf651e194135b98315c7a8001.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f166878d.chunk.css.map": "/static/css/main.f166878d.chunk.css.map",
-    "static/js/2.c531e019.chunk.js.LICENSE.txt": "/static/js/2.c531e019.chunk.js.LICENSE.txt",
+    "static/js/2.ad880894.chunk.js.LICENSE.txt": "/static/js/2.ad880894.chunk.js.LICENSE.txt",
     "static/media/background.webp": "/static/media/background.bf989778.webp",
     "static/media/bootstrap-4.svg": "/static/media/bootstrap-4.ffded238.svg",
     "static/media/css3.svg": "/static/media/css3.3707da3c.svg",
@@ -31,14 +31,15 @@
     "static/media/react.svg": "/static/media/react.4009eef3.svg",
     "static/media/recipe-book.png": "/static/media/recipe-book.9624282c.png",
     "static/media/redux.svg": "/static/media/redux.aa0a3376.svg",
-    "static/media/slide1.webp": "/static/media/slide1.ed269919.webp",
-    "static/media/slide2.webp": "/static/media/slide2.7256f309.webp",
+    "static/media/slide1.webp": "/static/media/slide1.dc1bf326.webp",
+    "static/media/slide2.webp": "/static/media/slide2.3323481a.webp",
+    "static/media/slide3.webp": "/static/media/slide3.9ae0381e.webp",
     "static/media/styled-components.svg": "/static/media/styled-components.e79a42b9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a6d7314.js",
-    "static/js/2.c531e019.chunk.js",
+    "static/js/2.ad880894.chunk.js",
     "static/css/main.f166878d.chunk.css",
-    "static/js/main.772cae0f.chunk.js"
+    "static/js/main.3b205acf.chunk.js"
   ]
 }
