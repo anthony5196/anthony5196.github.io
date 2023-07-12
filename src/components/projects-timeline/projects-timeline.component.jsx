@@ -18,7 +18,7 @@ const TimeLine = () => {
           <Card.Text>
             This React project allows you to search
              through Edamads API to toggle through health facts
-             for your favorite meals.
+             for your favorite meals. 4567890
           </Card.Text>
         </Card.Body>
         <Card.Body>
